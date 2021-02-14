@@ -1,4 +1,4 @@
-package br.com.projetos.sorts;
+package br.com.arthur.projects.sorts;
 
 public class BrincandoComBubble
 {
